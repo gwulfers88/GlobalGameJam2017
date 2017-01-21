@@ -1,9 +1,0 @@
-{
-	"Changelist" : 3249277,
-	"CompatibleChangelist" : 3195953,
-	"BuildId" : "",
-	"Modules" : 
-	{
-		"GGJam2017" : "UE4Editor-GGJam2017.dll"
-	}
-}
