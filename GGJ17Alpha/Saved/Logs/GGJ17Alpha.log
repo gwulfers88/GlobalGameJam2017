@@ -1,0 +1,1594 @@
+﻿Log file open, 01/21/17 12:09:22
+LogInit:Display: Running engine for game: GGJ17Alpha
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1384414233) SRandInit(1384414233).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.092814
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin Substance, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Marketplace/Substance/Substance.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.21-20.09.23:061][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.21-20.09.23:061][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.21-20.09.23:073][  0]LogInit: Computer: DESKTOP-4C0VF1H
+[2017.01.21-20.09.23:073][  0]LogInit: User: natha
+[2017.01.21-20.09.23:073][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.01.21-20.09.23:073][  0]LogInit: High frequency timer resolution =2.338341 MHz
+[2017.01.21-20.09.23:073][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.01.21-20.09.23:073][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.21-20.09.23:073][  0]LogMemory: Process Physical Memory: 265.52 MB used, 265.52 MB peak
+[2017.01.21-20.09.23:073][  0]LogMemory: Process Virtual Memory: 262.85 MB used, 262.85 MB peak
+[2017.01.21-20.09.23:073][  0]LogMemory: Physical Memory: 8256.91 MB used,  8044.69 MB free, 16301.60 MB total
+[2017.01.21-20.09.23:073][  0]LogMemory: Virtual Memory: 676.42 MB used,  8044.69 MB free, 134217728.00 MB total
+[2017.01.21-20.09.23:100][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.01.21-20.09.23:786][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.21-20.09.24:367][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 860M' (Feature Level 11_0)
+[2017.01.21-20.09.24:367][  0]LogD3D11RHI:       2018/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.01.21-20.09.24:372][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.01.21-20.09.24:372][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.01.21-20.09.24:373][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.01.21-20.09.24:373][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.01.21-20.09.24:373][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.21-20.09.24:379][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.21-20.09.24:379][  0]LogD3D11RHI:     GPU DeviceId: 0x1392 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.21-20.09.24:379][  0]LogWindows: EnumDisplayDevices:
+[2017.01.21-20.09.24:379][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2017.01.21-20.09.24:380][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.01.21-20.09.24:380][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.01.21-20.09.24:380][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.01.21-20.09.24:380][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 860M
+[2017.01.21-20.09.24:380][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.01.21-20.09.24:380][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.01.21-20.09.24:380][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.01.21-20.09.24:929][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.21-20.09.24:973][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.01.21-20.09.24:974][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/natha/Desktop/GIT/GlobalGameJam2017/GGJ17Alpha/Intermediate/Shaders/WorkingDirectory/4480/).
+[2017.01.21-20.09.24:974][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/natha/AppData/Local/Temp/UnrealShaderWorkingDir/BF003C7E4395A57BB3ADCCA19148AC5A/'.
+[2017.01.21-20.09.24:974][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.21-20.09.26:066][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.21-20.09.26:127][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.21-20.09.26:187][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.21-20.09.26:239][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.21-20.09.26:295][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.21-20.09.26:345][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.21-20.09.26:396][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.21-20.09.26:447][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.21-20.09.26:493][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.21-20.09.26:540][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.21-20.09.26:589][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.21-20.09.26:637][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.21-20.09.26:687][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.21-20.09.26:742][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.21-20.09.26:795][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.21-20.09.26:907][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.21-20.09.26:907][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.21-20.09.26:941][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.21-20.09.27:023][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.21-20.09.27:055][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.21-20.09.27:110][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.21-20.09.27:160][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.21-20.09.27:209][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.21-20.09.27:257][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.21-20.09.27:257][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.21-20.09.27:664][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.21-20.09.27:717][  0]LogDerivedDataCache: Loaded boot cache 0.05s 52MB C:/Users/natha/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.21-20.09.27:717][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/natha/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.21-20.09.27:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/natha/Desktop/GIT/GlobalGameJam2017/GGJ17Alpha/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.21-20.09.27:717][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.21-20.09.27:717][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/natha/Desktop/GIT/GlobalGameJam2017/GGJ17Alpha/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.21-20.09.27:717][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.21-20.09.27:734][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.21-20.09.27:746][  0]LogDerivedDataCache: Using Local data cache path C:/Users/natha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.21-20.09.27:942][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.21-20.09.27:944][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.21-20.09.28:145][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.21-20.09.28:184][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.21-20.09.28:227][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.21-20.09.28:227][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.21-20.09.28:227][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.21-20.09.28:710][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: ggj17alpha, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 812781780
+[2017.01.21-20.09.28:763][  0]LogAssetRegistry: FAssetRegistry took 0.0215 seconds to start up
+[2017.01.21-20.09.28:814][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.029771 seconds
+[2017.01.21-20.09.28:819][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.21-20.09.28:819][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.01.21-20.09.28:819][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.21-20.09.28:877][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.21-20.09.29:722][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.21-20.09.29:722][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.21-20.09.29:722][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.21-20.09.30:533][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2017.01.21-20.09.30:560][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.21-20.09.30:598][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.21-20.09.30:940][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.21-20.09.31:311][  0]SourceControl: Info Source control is disabled
+[2017.01.21-20.09.31:351][  0]SourceControl: Info Source control is disabled
+[2017.01.21-20.09.31:395][  0]SourceControl: Info Source control is disabled
+[2017.01.21-20.09.31:437][  0]SourceControl: Info Source control is disabled
+[2017.01.21-20.09.32:738][  0]LogEngine: Initializing Engine...
+[2017.01.21-20.09.32:738][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.21-20.09.32:963][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.21-20.09.32:968][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.21-20.09.32:977][  0]LogInit: FAudioDevice initialized.
+[2017.01.21-20.09.33:004][  0]LogDerivedDataCache: Saved boot cache 0.03s 51MB C:/Users/natha/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.21-20.09.33:011][  0]LogInit: Texture streaming: Enabled
+[2017.01.21-20.09.33:202][  0]LogInit: Transaction tracking system initialized
+[2017.01.21-20.09.33:512][  0]BlueprintLog: New page: Editor Load
+[2017.01.21-20.09.34:360][  0]LocalizationService: Info Localization service is disabled
+[2017.01.21-20.09.34:959][  0]LogConsoleResponse:Display: 
+[2017.01.21-20.09.35:086][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.21-20.09.35:086][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.21-20.09.35:572][  0]LogFileCache: Scanning file cache for directory 'C:/Users/natha/Desktop/GIT/GlobalGameJam2017/GGJ17Alpha/Content/' took 0.01s
+[2017.01.21-20.09.36:011][  0]SourceControl: Info Source control is disabled
+[2017.01.21-20.09.36:011][  0]Cmd: MAP LOAD FILE="../../../../../../Users/natha/Desktop/GIT/GlobalGameJam2017/GGJ17Alpha/Content/FlyingCPP/Maps/FlyingExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.21-20.09.36:011][  0]LightingResults: New page: Lighting Build
+[2017.01.21-20.09.36:047][  0]MapCheck: New page: Map Check
+[2017.01.21-20.09.36:047][  0]LightingResults: New page: Lighting Build
+[2017.01.21-20.09.36:353][  0]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2017.01.21-20.09.36:366][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.21-20.09.36:366][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.21-20.09.36:404][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 37.297ms to complete.
+[2017.01.21-20.09.36:404][  0]LogFileHelpers: Loading map 'FlyingExampleMap' took 0.393
+[2017.01.21-20.09.36:464][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.01.21-20.09.36:538][  0]LogCollectionManager: Loaded 0 collections in 0.002680 seconds
+[2017.01.21-20.09.36:612][  0]LogFileCache: Scanning file cache for directory 'C:/Users/natha/Desktop/GIT/GlobalGameJam2017/GGJ17Alpha/Saved/Collections/' took 0.01s
+[2017.01.21-20.09.36:612][  0]LogFileCache: Scanning file cache for directory 'C:/Users/natha/Desktop/GIT/GlobalGameJam2017/GGJ17Alpha/Content/Developers/natha/Collections/' took 0.01s
+[2017.01.21-20.09.36:612][  0]LogFileCache: Scanning file cache for directory 'C:/Users/natha/Desktop/GIT/GlobalGameJam2017/GGJ17Alpha/Content/Collections/' took 0.01s
+[2017.01.21-20.09.36:612][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000006 seconds
+[2017.01.21-20.09.36:622][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2206 classes and 436 folders.
+[2017.01.21-20.09.36:659][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.21-20.09.36:659][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.21-20.09.36:660][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0012 seconds. Added 13 classes and 0 folders.
+[2017.01.21-20.09.36:717][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2017.01.21-20.09.36:752][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.01.21-20.09.36:790][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.01.21-20.09.36:894][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.21-20.09.36:900][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.01.21-20.09.36:965][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2017.01.21-20.09.36:965][  0]LogLoad: (Engine Initialization) Total time: 15.65 seconds
+[2017.01.21-20.09.36:965][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.10 seconds
+[2017.01.21-20.09.36:965][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.21-20.09.36:965][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.21-20.09.36:975][  0]LogOcInput: OculusInput pre-init called
+[2017.01.21-20.09.36:995][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.01.21-20.09.37:160][  0]LogRenderer: Reallocating scene render targets to support 1180x644 NumSamples 1 (Frame:2).
+[2017.01.21-20.09.37:224][  1]LogAssetRegistry: Asset discovery search completed in 8.4831 seconds
+[2017.01.21-20.09.37:224][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.21-20.09.37:224][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000021 seconds (updated 0 objects)
+[2017.01.21-20.09.40:794][246]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 111 classes and 0 folders.
+[2017.01.21-20.09.42:934][339]LogTemp: Repeting last play command: Selected Viewport
+[2017.01.21-20.09.42:954][339]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2017.01.21-20.09.42:954][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.21-20.09.42:954][339]PIE: New page: PIE session: FlyingExampleMap (Jan 21, 2017, 4:09:42 AM)
+[2017.01.21-20.09.42:954][339]LogPlayLevel: Creating play world package: /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap
+[2017.01.21-20.09.42:992][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037841s)
+[2017.01.21-20.09.42:992][339]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2017.01.21-20.09.42:993][339]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2017.01.21-20.09.42:993][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.038837s)
+[2017.01.21-20.09.43:026][339]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.01.21-20.09.43:034][339]LogInit: FAudioDevice initialized.
+[2017.01.21-20.09.43:084][339]LogLoad: Game class is 'MyGGJ17AlphaGameMode_BP_C'
+[2017.01.21-20.09.43:089][339]LogWorld: Bringing World /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2017.01.21-12.09.43
+[2017.01.21-20.09.43:089][339]LogWorld: Bringing up level for play took: 0.003618
+[2017.01.21-20.09.43:130][339]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0017 seconds. Added 11 classes and 0 folders.
+[2017.01.21-20.09.43:132][339]PIE: Info Play in editor start time for /Game/FlyingCPP/Maps/UEDPIE_0_FlyingExampleMap -0.772
+[2017.01.21-20.09.43:132][339]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingCPP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2017.01.21-20.09.43:133][339]LogBlueprintUserMessages: [Player_BP_C_0] 0.002461
+[2017.01.21-20.09.43:133][339]LogBlueprintUserMessages: [Player_BP_C_0] 0.0
+[2017.01.21-20.09.43:204][340]LogBlueprintUserMessages: [Player_BP_C_0] 0.04865
+[2017.01.21-20.09.43:204][340]LogBlueprintUserMessages: [Player_BP_C_0] 0.000771
+[2017.01.21-20.09.43:223][341]LogBlueprintUserMessages: [Player_BP_C_0] 0.049374
+[2017.01.21-20.09.43:223][341]LogBlueprintUserMessages: [Player_BP_C_0] 0.000502
+[2017.01.21-20.09.43:238][342]LogBlueprintUserMessages: [Player_BP_C_0] 0.04987
+[2017.01.21-20.09.43:238][342]LogBlueprintUserMessages: [Player_BP_C_0] 0.00051
+[2017.01.21-20.09.43:255][343]LogBlueprintUserMessages: [Player_BP_C_0] 0.050354
+[2017.01.21-20.09.43:255][343]LogBlueprintUserMessages: [Player_BP_C_0] 0.000525
+[2017.01.21-20.09.43:268][344]LogBlueprintUserMessages: [Player_BP_C_0] 0.050733
+[2017.01.21-20.09.43:268][344]LogBlueprintUserMessages: [Player_BP_C_0] 0.000534
+[2017.01.21-20.09.43:281][345]LogBlueprintUserMessages: [Player_BP_C_0] 0.051084
+[2017.01.21-20.09.43:281][345]LogBlueprintUserMessages: [Player_BP_C_0] 0.000544
+[2017.01.21-20.09.43:294][346]LogBlueprintUserMessages: [Player_BP_C_0] 0.051414
+[2017.01.21-20.09.43:294][346]LogBlueprintUserMessages: [Player_BP_C_0] 0.000554
+[2017.01.21-20.09.43:307][347]LogBlueprintUserMessages: [Player_BP_C_0] 0.051776
+[2017.01.21-20.09.43:307][347]LogBlueprintUserMessages: [Player_BP_C_0] 0.000566
+[2017.01.21-20.09.43:321][348]LogBlueprintUserMessages: [Player_BP_C_0] 0.052137
+[2017.01.21-20.09.43:321][348]LogBlueprintUserMessages: [Player_BP_C_0] 0.000578
+[2017.01.21-20.09.43:335][349]LogBlueprintUserMessages: [Player_BP_C_0] 0.052454
+[2017.01.21-20.09.43:335][349]LogBlueprintUserMessages: [Player_BP_C_0] 0.000587
+[2017.01.21-20.09.43:350][350]LogBlueprintUserMessages: [Player_BP_C_0] 0.052791
+[2017.01.21-20.09.43:350][350]LogBlueprintUserMessages: [Player_BP_C_0] 0.000599
+[2017.01.21-20.09.43:364][351]LogBlueprintUserMessages: [Player_BP_C_0] 0.053081
+[2017.01.21-20.09.43:364][351]LogBlueprintUserMessages: [Player_BP_C_0] 0.000608
+[2017.01.21-20.09.43:375][352]LogBlueprintUserMessages: [Player_BP_C_0] 0.053331
+[2017.01.21-20.09.43:375][352]LogBlueprintUserMessages: [Player_BP_C_0] 0.000615
+[2017.01.21-20.09.43:389][353]LogBlueprintUserMessages: [Player_BP_C_0] 0.053582
+[2017.01.21-20.09.43:389][353]LogBlueprintUserMessages: [Player_BP_C_0] 0.000624
+[2017.01.21-20.09.43:404][354]LogBlueprintUserMessages: [Player_BP_C_0] 0.053872
+[2017.01.21-20.09.43:404][354]LogBlueprintUserMessages: [Player_BP_C_0] 0.000635
+[2017.01.21-20.09.43:417][355]LogBlueprintUserMessages: [Player_BP_C_0] 0.054121
+[2017.01.21-20.09.43:417][355]LogBlueprintUserMessages: [Player_BP_C_0] 0.000643
+[2017.01.21-20.09.43:432][356]LogBlueprintUserMessages: [Player_BP_C_0] 0.054374
+[2017.01.21-20.09.43:432][356]LogBlueprintUserMessages: [Player_BP_C_0] 0.000652
+[2017.01.21-20.09.43:446][357]LogBlueprintUserMessages: [Player_BP_C_0] 0.054595
+[2017.01.21-20.09.43:446][357]LogBlueprintUserMessages: [Player_BP_C_0] 0.000659
+[2017.01.21-20.09.43:458][358]LogBlueprintUserMessages: [Player_BP_C_0] 0.054814
+[2017.01.21-20.09.43:458][358]LogBlueprintUserMessages: [Player_BP_C_0] 0.000666
+[2017.01.21-20.09.43:475][359]LogBlueprintUserMessages: [Player_BP_C_0] 0.055084
+[2017.01.21-20.09.43:475][359]LogBlueprintUserMessages: [Player_BP_C_0] 0.000678
+[2017.01.21-20.09.43:488][360]LogBlueprintUserMessages: [Player_BP_C_0] 0.055281
+[2017.01.21-20.09.43:488][360]LogBlueprintUserMessages: [Player_BP_C_0] 0.000683
+[2017.01.21-20.09.43:500][361]LogBlueprintUserMessages: [Player_BP_C_0] 0.055455
+[2017.01.21-20.09.43:501][361]LogBlueprintUserMessages: [Player_BP_C_0] 0.000688
+[2017.01.21-20.09.43:515][362]LogBlueprintUserMessages: [Player_BP_C_0] 0.055646
+[2017.01.21-20.09.43:515][362]LogBlueprintUserMessages: [Player_BP_C_0] 0.000696
+[2017.01.21-20.09.43:526][363]LogBlueprintUserMessages: [Player_BP_C_0] 0.055798
+[2017.01.21-20.09.43:526][363]LogBlueprintUserMessages: [Player_BP_C_0] 0.0007
+[2017.01.21-20.09.43:540][364]LogBlueprintUserMessages: [Player_BP_C_0] 0.055967
+[2017.01.21-20.09.43:540][364]LogBlueprintUserMessages: [Player_BP_C_0] 0.000707
+[2017.01.21-20.09.43:553][365]LogBlueprintUserMessages: [Player_BP_C_0] 0.056135
+[2017.01.21-20.09.43:553][365]LogBlueprintUserMessages: [Player_BP_C_0] 0.000714
+[2017.01.21-20.09.43:566][366]LogBlueprintUserMessages: [Player_BP_C_0] 0.056284
+[2017.01.21-20.09.43:566][366]LogBlueprintUserMessages: [Player_BP_C_0] 0.000719
+[2017.01.21-20.09.43:581][367]LogBlueprintUserMessages: [Player_BP_C_0] 0.056448
+[2017.01.21-20.09.43:581][367]LogBlueprintUserMessages: [Player_BP_C_0] 0.000725
+[2017.01.21-20.09.43:593][368]LogBlueprintUserMessages: [Player_BP_C_0] 0.056573
+[2017.01.21-20.09.43:593][368]LogBlueprintUserMessages: [Player_BP_C_0] 0.000729
+[2017.01.21-20.09.43:607][369]LogBlueprintUserMessages: [Player_BP_C_0] 0.056722
+[2017.01.21-20.09.43:607][369]LogBlueprintUserMessages: [Player_BP_C_0] 0.000736
+[2017.01.21-20.09.43:620][370]LogBlueprintUserMessages: [Player_BP_C_0] 0.056853
+[2017.01.21-20.09.43:620][370]LogBlueprintUserMessages: [Player_BP_C_0] 0.00074
+[2017.01.21-20.09.43:634][371]LogBlueprintUserMessages: [Player_BP_C_0] 0.056981
+[2017.01.21-20.09.43:634][371]LogBlueprintUserMessages: [Player_BP_C_0] 0.000745
+[2017.01.21-20.09.43:647][372]LogBlueprintUserMessages: [Player_BP_C_0] 0.057103
+[2017.01.21-20.09.43:647][372]LogBlueprintUserMessages: [Player_BP_C_0] 0.000749
+[2017.01.21-20.09.43:662][373]LogBlueprintUserMessages: [Player_BP_C_0] 0.057221
+[2017.01.21-20.09.43:662][373]LogBlueprintUserMessages: [Player_BP_C_0] 0.000754
+[2017.01.21-20.09.43:674][374]LogBlueprintUserMessages: [Player_BP_C_0] 0.057328
+[2017.01.21-20.09.43:674][374]LogBlueprintUserMessages: [Player_BP_C_0] 0.000758
+[2017.01.21-20.09.43:688][375]LogBlueprintUserMessages: [Player_BP_C_0] 0.057442
+[2017.01.21-20.09.43:688][375]LogBlueprintUserMessages: [Player_BP_C_0] 0.000762
+[2017.01.21-20.09.43:703][376]LogBlueprintUserMessages: [Player_BP_C_0] 0.057557
+[2017.01.21-20.09.43:703][376]LogBlueprintUserMessages: [Player_BP_C_0] 0.000767
+[2017.01.21-20.09.43:716][377]LogBlueprintUserMessages: [Player_BP_C_0] 0.057654
+[2017.01.21-20.09.43:716][377]LogBlueprintUserMessages: [Player_BP_C_0] 0.00077
+[2017.01.21-20.09.43:727][378]LogBlueprintUserMessages: [Player_BP_C_0] 0.057731
+[2017.01.21-20.09.43:727][378]LogBlueprintUserMessages: [Player_BP_C_0] 0.000773
+[2017.01.21-20.09.43:739][379]LogBlueprintUserMessages: [Player_BP_C_0] 0.057811
+[2017.01.21-20.09.43:739][379]LogBlueprintUserMessages: [Player_BP_C_0] 0.000776
+[2017.01.21-20.09.43:751][380]LogBlueprintUserMessages: [Player_BP_C_0] 0.05789
+[2017.01.21-20.09.43:751][380]LogBlueprintUserMessages: [Player_BP_C_0] 0.000779
+[2017.01.21-20.09.43:763][381]LogBlueprintUserMessages: [Player_BP_C_0] 0.057967
+[2017.01.21-20.09.43:763][381]LogBlueprintUserMessages: [Player_BP_C_0] 0.000782
+[2017.01.21-20.09.43:774][382]LogBlueprintUserMessages: [Player_BP_C_0] 0.058037
+[2017.01.21-20.09.43:775][382]LogBlueprintUserMessages: [Player_BP_C_0] 0.000785
+[2017.01.21-20.09.43:788][383]LogBlueprintUserMessages: [Player_BP_C_0] 0.058116
+[2017.01.21-20.09.43:788][383]LogBlueprintUserMessages: [Player_BP_C_0] 0.000788
+[2017.01.21-20.09.43:801][384]LogBlueprintUserMessages: [Player_BP_C_0] 0.058192
+[2017.01.21-20.09.43:801][384]LogBlueprintUserMessages: [Player_BP_C_0] 0.000791
+[2017.01.21-20.09.43:815][385]LogBlueprintUserMessages: [Player_BP_C_0] 0.058266
+[2017.01.21-20.09.43:815][385]LogBlueprintUserMessages: [Player_BP_C_0] 0.000794
+[2017.01.21-20.09.43:828][386]LogBlueprintUserMessages: [Player_BP_C_0] 0.058329
+[2017.01.21-20.09.43:828][386]LogBlueprintUserMessages: [Player_BP_C_0] 0.000796
+[2017.01.21-20.09.43:840][387]LogBlueprintUserMessages: [Player_BP_C_0] 0.058392
+[2017.01.21-20.09.43:840][387]LogBlueprintUserMessages: [Player_BP_C_0] 0.000799
+[2017.01.21-20.09.43:852][388]LogBlueprintUserMessages: [Player_BP_C_0] 0.058454
+[2017.01.21-20.09.43:852][388]LogBlueprintUserMessages: [Player_BP_C_0] 0.000801
+[2017.01.21-20.09.43:865][389]LogBlueprintUserMessages: [Player_BP_C_0] 0.058515
+[2017.01.21-20.09.43:865][389]LogBlueprintUserMessages: [Player_BP_C_0] 0.000804
+[2017.01.21-20.09.43:877][390]LogBlueprintUserMessages: [Player_BP_C_0] 0.058563
+[2017.01.21-20.09.43:877][390]LogBlueprintUserMessages: [Player_BP_C_0] 0.000805
+[2017.01.21-20.09.43:910][391]LogBlueprintUserMessages: [Player_BP_C_0] 0.058617
+[2017.01.21-20.09.43:910][391]LogBlueprintUserMessages: [Player_BP_C_0] 0.000808
+[2017.01.21-20.09.43:926][392]LogBlueprintUserMessages: [Player_BP_C_0] 0.058767
+[2017.01.21-20.09.43:926][392]LogBlueprintUserMessages: [Player_BP_C_0] 0.000817
+[2017.01.21-20.09.43:940][393]LogBlueprintUserMessages: [Player_BP_C_0] 0.05882
+[2017.01.21-20.09.43:940][393]LogBlueprintUserMessages: [Player_BP_C_0] 0.000816
+[2017.01.21-20.09.43:956][394]LogBlueprintUserMessages: [Player_BP_C_0] 0.058875
+[2017.01.21-20.09.43:956][394]LogBlueprintUserMessages: [Player_BP_C_0] 0.000818
+[2017.01.21-20.09.43:970][395]LogBlueprintUserMessages: [Player_BP_C_0] 0.058922
+[2017.01.21-20.09.43:970][395]LogBlueprintUserMessages: [Player_BP_C_0] 0.00082
+[2017.01.21-20.09.43:984][396]LogBlueprintUserMessages: [Player_BP_C_0] 0.058969
+[2017.01.21-20.09.43:984][396]LogBlueprintUserMessages: [Player_BP_C_0] 0.000822
+[2017.01.21-20.09.43:997][397]LogBlueprintUserMessages: [Player_BP_C_0] 0.05901
+[2017.01.21-20.09.43:997][397]LogBlueprintUserMessages: [Player_BP_C_0] 0.000824
+[2017.01.21-20.09.44:013][398]LogBlueprintUserMessages: [Player_BP_C_0] 0.059057
+[2017.01.21-20.09.44:013][398]LogBlueprintUserMessages: [Player_BP_C_0] 0.000826
+[2017.01.21-20.09.44:026][399]LogBlueprintUserMessages: [Player_BP_C_0] 0.059091
+[2017.01.21-20.09.44:026][399]LogBlueprintUserMessages: [Player_BP_C_0] 0.000827
+[2017.01.21-20.09.44:040][400]LogBlueprintUserMessages: [Player_BP_C_0] 0.059128
+[2017.01.21-20.09.44:040][400]LogBlueprintUserMessages: [Player_BP_C_0] 0.000828
+[2017.01.21-20.09.44:055][401]LogBlueprintUserMessages: [Player_BP_C_0] 0.059168
+[2017.01.21-20.09.44:055][401]LogBlueprintUserMessages: [Player_BP_C_0] 0.00083
+[2017.01.21-20.09.44:069][402]LogBlueprintUserMessages: [Player_BP_C_0] 0.059201
+[2017.01.21-20.09.44:069][402]LogBlueprintUserMessages: [Player_BP_C_0] 0.000831
+[2017.01.21-20.09.44:084][403]LogBlueprintUserMessages: [Player_BP_C_0] 0.059236
+[2017.01.21-20.09.44:084][403]LogBlueprintUserMessages: [Player_BP_C_0] 0.000833
+[2017.01.21-20.09.44:098][404]LogBlueprintUserMessages: [Player_BP_C_0] 0.05927
+[2017.01.21-20.09.44:098][404]LogBlueprintUserMessages: [Player_BP_C_0] 0.000834
+[2017.01.21-20.09.44:114][405]LogBlueprintUserMessages: [Player_BP_C_0] 0.0593
+[2017.01.21-20.09.44:114][405]LogBlueprintUserMessages: [Player_BP_C_0] 0.000835
+[2017.01.21-20.09.44:133][406]LogBlueprintUserMessages: [Player_BP_C_0] 0.059334
+[2017.01.21-20.09.44:133][406]LogBlueprintUserMessages: [Player_BP_C_0] 0.000837
+[2017.01.21-20.09.44:148][407]LogBlueprintUserMessages: [Player_BP_C_0] 0.05937
+[2017.01.21-20.09.44:148][407]LogBlueprintUserMessages: [Player_BP_C_0] 0.000839
+[2017.01.21-20.09.44:164][408]LogBlueprintUserMessages: [Player_BP_C_0] 0.059399
+[2017.01.21-20.09.44:164][408]LogBlueprintUserMessages: [Player_BP_C_0] 0.00084
+[2017.01.21-20.09.44:180][409]LogBlueprintUserMessages: [Player_BP_C_0] 0.059428
+[2017.01.21-20.09.44:180][409]LogBlueprintUserMessages: [Player_BP_C_0] 0.000841
+[2017.01.21-20.09.44:194][410]LogBlueprintUserMessages: [Player_BP_C_0] 0.059454
+[2017.01.21-20.09.44:195][410]LogBlueprintUserMessages: [Player_BP_C_0] 0.000842
+[2017.01.21-20.09.44:209][411]LogBlueprintUserMessages: [Player_BP_C_0] 0.059478
+[2017.01.21-20.09.44:209][411]LogBlueprintUserMessages: [Player_BP_C_0] 0.000843
+[2017.01.21-20.09.44:226][412]LogBlueprintUserMessages: [Player_BP_C_0] 0.059503
+[2017.01.21-20.09.44:226][412]LogBlueprintUserMessages: [Player_BP_C_0] 0.000844
+[2017.01.21-20.09.44:240][413]LogBlueprintUserMessages: [Player_BP_C_0] 0.059528
+[2017.01.21-20.09.44:240][413]LogBlueprintUserMessages: [Player_BP_C_0] 0.000845
+[2017.01.21-20.09.44:254][414]LogBlueprintUserMessages: [Player_BP_C_0] 0.059548
+[2017.01.21-20.09.44:254][414]LogBlueprintUserMessages: [Player_BP_C_0] 0.000845
+[2017.01.21-20.09.44:268][415]LogBlueprintUserMessages: [Player_BP_C_0] 0.059566
+[2017.01.21-20.09.44:268][415]LogBlueprintUserMessages: [Player_BP_C_0] 0.000846
+[2017.01.21-20.09.44:282][416]LogBlueprintUserMessages: [Player_BP_C_0] 0.059585
+[2017.01.21-20.09.44:282][416]LogBlueprintUserMessages: [Player_BP_C_0] 0.000847
+[2017.01.21-20.09.44:297][417]LogBlueprintUserMessages: [Player_BP_C_0] 0.059601
+[2017.01.21-20.09.44:297][417]LogBlueprintUserMessages: [Player_BP_C_0] 0.000848
+[2017.01.21-20.09.44:313][418]LogBlueprintUserMessages: [Player_BP_C_0] 0.059622
+[2017.01.21-20.09.44:313][418]LogBlueprintUserMessages: [Player_BP_C_0] 0.000849
+[2017.01.21-20.09.44:330][419]LogBlueprintUserMessages: [Player_BP_C_0] 0.059638
+[2017.01.21-20.09.44:330][419]LogBlueprintUserMessages: [Player_BP_C_0] 0.000849
+[2017.01.21-20.09.44:345][420]LogBlueprintUserMessages: [Player_BP_C_0] 0.059656
+[2017.01.21-20.09.44:345][420]LogBlueprintUserMessages: [Player_BP_C_0] 0.00085
+[2017.01.21-20.09.44:362][421]LogBlueprintUserMessages: [Player_BP_C_0] 0.059671
+[2017.01.21-20.09.44:362][421]LogBlueprintUserMessages: [Player_BP_C_0] 0.000851
+[2017.01.21-20.09.44:382][422]LogBlueprintUserMessages: [Player_BP_C_0] 0.059692
+[2017.01.21-20.09.44:382][422]LogBlueprintUserMessages: [Player_BP_C_0] 0.000852
+[2017.01.21-20.09.44:405][423]LogBlueprintUserMessages: [Player_BP_C_0] 0.05971
+[2017.01.21-20.09.44:405][423]LogBlueprintUserMessages: [Player_BP_C_0] 0.000852
+[2017.01.21-20.09.44:423][424]LogBlueprintUserMessages: [Player_BP_C_0] 0.059729
+[2017.01.21-20.09.44:423][424]LogBlueprintUserMessages: [Player_BP_C_0] 0.000853
+[2017.01.21-20.09.44:438][425]LogBlueprintUserMessages: [Player_BP_C_0] 0.059743
+[2017.01.21-20.09.44:438][425]LogBlueprintUserMessages: [Player_BP_C_0] 0.000853
+[2017.01.21-20.09.44:456][426]LogBlueprintUserMessages: [Player_BP_C_0] 0.059755
+[2017.01.21-20.09.44:456][426]LogBlueprintUserMessages: [Player_BP_C_0] 0.000854
+[2017.01.21-20.09.44:473][427]LogBlueprintUserMessages: [Player_BP_C_0] 0.059768
+[2017.01.21-20.09.44:473][427]LogBlueprintUserMessages: [Player_BP_C_0] 0.000855
+[2017.01.21-20.09.44:492][428]LogBlueprintUserMessages: [Player_BP_C_0] 0.05978
+[2017.01.21-20.09.44:492][428]LogBlueprintUserMessages: [Player_BP_C_0] 0.000855
+[2017.01.21-20.09.44:507][429]LogBlueprintUserMessages: [Player_BP_C_0] 0.059793
+[2017.01.21-20.09.44:507][429]LogBlueprintUserMessages: [Player_BP_C_0] 0.000856
+[2017.01.21-20.09.44:524][430]LogBlueprintUserMessages: [Player_BP_C_0] 0.059802
+[2017.01.21-20.09.44:524][430]LogBlueprintUserMessages: [Player_BP_C_0] 0.000856
+[2017.01.21-20.09.44:540][431]LogBlueprintUserMessages: [Player_BP_C_0] 0.059812
+[2017.01.21-20.09.44:540][431]LogBlueprintUserMessages: [Player_BP_C_0] 0.000856
+[2017.01.21-20.09.44:556][432]LogBlueprintUserMessages: [Player_BP_C_0] 0.059821
+[2017.01.21-20.09.44:556][432]LogBlueprintUserMessages: [Player_BP_C_0] 0.000857
+[2017.01.21-20.09.44:569][433]LogBlueprintUserMessages: [Player_BP_C_0] 0.059829
+[2017.01.21-20.09.44:570][433]LogBlueprintUserMessages: [Player_BP_C_0] 0.000857
+[2017.01.21-20.09.44:584][434]LogBlueprintUserMessages: [Player_BP_C_0] 0.059837
+[2017.01.21-20.09.44:584][434]LogBlueprintUserMessages: [Player_BP_C_0] 0.000857
+[2017.01.21-20.09.44:597][435]LogBlueprintUserMessages: [Player_BP_C_0] 0.059843
+[2017.01.21-20.09.44:597][435]LogBlueprintUserMessages: [Player_BP_C_0] 0.000858
+[2017.01.21-20.09.44:610][436]LogBlueprintUserMessages: [Player_BP_C_0] 0.059849
+[2017.01.21-20.09.44:610][436]LogBlueprintUserMessages: [Player_BP_C_0] 0.000858
+[2017.01.21-20.09.44:623][437]LogBlueprintUserMessages: [Player_BP_C_0] 0.059855
+[2017.01.21-20.09.44:623][437]LogBlueprintUserMessages: [Player_BP_C_0] 0.000858
+[2017.01.21-20.09.44:637][438]LogBlueprintUserMessages: [Player_BP_C_0] 0.059861
+[2017.01.21-20.09.44:637][438]LogBlueprintUserMessages: [Player_BP_C_0] 0.000858
+[2017.01.21-20.09.44:654][439]LogBlueprintUserMessages: [Player_BP_C_0] 0.059867
+[2017.01.21-20.09.44:654][439]LogBlueprintUserMessages: [Player_BP_C_0] 0.000859
+[2017.01.21-20.09.44:669][440]LogBlueprintUserMessages: [Player_BP_C_0] 0.059874
+[2017.01.21-20.09.44:669][440]LogBlueprintUserMessages: [Player_BP_C_0] 0.000859
+[2017.01.21-20.09.44:683][441]LogBlueprintUserMessages: [Player_BP_C_0] 0.059879
+[2017.01.21-20.09.44:683][441]LogBlueprintUserMessages: [Player_BP_C_0] 0.000859
+[2017.01.21-20.09.44:699][442]LogBlueprintUserMessages: [Player_BP_C_0] 0.059885
+[2017.01.21-20.09.44:699][442]LogBlueprintUserMessages: [Player_BP_C_0] 0.000859
+[2017.01.21-20.09.44:715][443]LogBlueprintUserMessages: [Player_BP_C_0] 0.05989
+[2017.01.21-20.09.44:715][443]LogBlueprintUserMessages: [Player_BP_C_0] 0.000859
+[2017.01.21-20.09.44:731][444]LogBlueprintUserMessages: [Player_BP_C_0] 0.059896
+[2017.01.21-20.09.44:731][444]LogBlueprintUserMessages: [Player_BP_C_0] 0.00086
+[2017.01.21-20.09.44:747][445]LogBlueprintUserMessages: [Player_BP_C_0] 0.059901
+[2017.01.21-20.09.44:747][445]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.44:760][446]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.44:760][446]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.44:775][447]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.44:775][447]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.44:789][448]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.44:789][448]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.44:803][449]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.44:803][449]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.44:818][450]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.44:818][450]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.44:833][451]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.44:833][451]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.44:848][452]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.44:848][452]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.44:862][453]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.44:862][453]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.44:876][454]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.44:876][454]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.44:910][455]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.44:910][455]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.44:926][456]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.44:926][456]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.44:940][457]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.44:940][457]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.44:956][458]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.44:956][458]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.44:968][459]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.44:968][459]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.44:980][460]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.44:981][460]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.44:992][461]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.44:992][461]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:003][462]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:003][462]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:015][463]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:015][463]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:026][464]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:026][464]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:037][465]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:037][465]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:049][466]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:049][466]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:059][467]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:059][467]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:070][468]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:070][468]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:082][469]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:082][469]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:092][470]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:092][470]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:104][471]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:104][471]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:117][472]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:117][472]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:128][473]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:128][473]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:138][474]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:138][474]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:150][475]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:150][475]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:161][476]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:161][476]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:172][477]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:172][477]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:184][478]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:184][478]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:195][479]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:195][479]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:206][480]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:206][480]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:217][481]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:217][481]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:230][482]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:230][482]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:241][483]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:241][483]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:252][484]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:252][484]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:263][485]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:263][485]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:274][486]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:274][486]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:286][487]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:286][487]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:297][488]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:297][488]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:310][489]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:310][489]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:322][490]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:322][490]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:333][491]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:333][491]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:344][492]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:344][492]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:356][493]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:356][493]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:368][494]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:368][494]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:380][495]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:380][495]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:390][496]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:391][496]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:405][497]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:405][497]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:416][498]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:416][498]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:428][499]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:428][499]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:438][500]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:438][500]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:449][501]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:449][501]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:462][502]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:463][502]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:474][503]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:474][503]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:486][504]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:486][504]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:497][505]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:497][505]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:508][506]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:508][506]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:519][507]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:519][507]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:532][508]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:532][508]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:545][509]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:546][509]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:557][510]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:557][510]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:568][511]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:568][511]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:580][512]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:580][512]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:591][513]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:591][513]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:603][514]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:603][514]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:616][515]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:616][515]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:630][516]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:630][516]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:641][517]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:641][517]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:653][518]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:653][518]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:665][519]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:665][519]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:676][520]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:676][520]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:689][521]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:689][521]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:704][522]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:705][522]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:717][523]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:717][523]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:729][524]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:729][524]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:740][525]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:740][525]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:753][526]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:753][526]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:766][527]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:766][527]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:778][528]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:778][528]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:790][529]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:790][529]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:802][530]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:802][530]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:814][531]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:814][531]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:824][532]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:824][532]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:836][533]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:836][533]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:847][534]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:847][534]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:858][535]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:858][535]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:871][536]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:871][536]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:884][537]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:884][537]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:897][538]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:897][538]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:908][539]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:908][539]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:956][540]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:956][540]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:969][541]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:969][541]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:981][542]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:981][542]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.45:994][543]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.45:994][543]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:005][544]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:005][544]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:018][545]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:018][545]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:031][546]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:031][546]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:041][547]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:042][547]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:053][548]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:053][548]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:065][549]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:065][549]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:076][550]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:076][550]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:087][551]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:088][551]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:100][552]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:100][552]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:114][553]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:114][553]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:125][554]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:125][554]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:138][555]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:138][555]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:149][556]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:149][556]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:163][557]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:163][557]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:174][558]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:174][558]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:188][559]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:188][559]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:201][560]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:201][560]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:214][561]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:214][561]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:225][562]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:225][562]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:238][563]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:238][563]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:251][564]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:251][564]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:264][565]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:264][565]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:275][566]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:275][566]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:289][567]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:289][567]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:302][568]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:302][568]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:317][569]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:317][569]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:330][570]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:330][570]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:345][571]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:345][571]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:356][572]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:356][572]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:369][573]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:369][573]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:383][574]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:383][574]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:396][575]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:396][575]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:407][576]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:407][576]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:419][577]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:419][577]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:433][578]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:433][578]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:445][579]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:445][579]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:457][580]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:457][580]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:469][581]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:469][581]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:483][582]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:483][582]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:496][583]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:496][583]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:508][584]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:508][584]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:520][585]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:520][585]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:533][586]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:533][586]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:545][587]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:545][587]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:556][588]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:556][588]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:568][589]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:568][589]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:582][590]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:582][590]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:595][591]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:596][591]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:607][592]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:607][592]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:619][593]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:619][593]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:630][594]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:630][594]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:641][595]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:641][595]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:654][596]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:654][596]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:665][597]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:665][597]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:675][598]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:676][598]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:692][599]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:692][599]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:705][600]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:705][600]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:717][601]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:717][601]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:729][602]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:729][602]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:741][603]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:741][603]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:754][604]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:754][604]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:766][605]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:766][605]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:779][606]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:779][606]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:790][607]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:790][607]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:803][608]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:803][608]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:815][609]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:815][609]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:827][610]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:828][610]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:839][611]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:839][611]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:851][612]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:851][612]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:862][613]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:862][613]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:873][614]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:873][614]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:886][615]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:886][615]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:899][616]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:899][616]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:913][617]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:913][617]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:924][618]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:924][618]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:982][619]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:982][619]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.46:996][620]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.46:997][620]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:007][621]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:007][621]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:019][622]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:019][622]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:031][623]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:031][623]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:041][624]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:041][624]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:053][625]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:053][625]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:066][626]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:066][626]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:080][627]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:080][627]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:090][628]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:090][628]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:103][629]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:103][629]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:115][630]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:115][630]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:130][631]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:130][631]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:142][632]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:142][632]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:154][633]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:154][633]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:167][634]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:167][634]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:180][635]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:180][635]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:191][636]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:191][636]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:204][637]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:204][637]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:217][638]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:217][638]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:230][639]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:230][639]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:241][640]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:241][640]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:253][641]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:253][641]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:265][642]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:265][642]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:278][643]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:279][643]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:291][644]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:291][644]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:303][645]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:303][645]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:316][646]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:316][646]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:329][647]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:329][647]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:340][648]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:340][648]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:352][649]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:352][649]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:365][650]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:365][650]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:380][651]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:380][651]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:392][652]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:392][652]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:405][653]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:405][653]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:416][654]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:416][654]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:429][655]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:429][655]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:440][656]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:440][656]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:453][657]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:453][657]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:466][658]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:466][658]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:478][659]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:478][659]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:489][660]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:489][660]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:501][661]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:502][661]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:514][662]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:514][662]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:528][663]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:528][663]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:539][664]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:539][664]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:552][665]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:552][665]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:563][666]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:563][666]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:574][667]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:574][667]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:587][668]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:587][668]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:599][669]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:599][669]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:613][670]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:613][670]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:624][671]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:624][671]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:636][672]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:636][672]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:649][673]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:649][673]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:662][674]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:663][674]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:674][675]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:674][675]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:686][676]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:686][676]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:699][677]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:699][677]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:713][678]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:713][678]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:724][679]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:724][679]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:736][680]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:736][680]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:749][681]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:749][681]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:761][682]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:761][682]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:772][683]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:772][683]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:785][684]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:785][684]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:797][685]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:797][685]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:809][686]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:809][686]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:822][687]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:822][687]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:836][688]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:836][688]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:849][689]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:849][689]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:861][690]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:861][690]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:872][691]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:872][691]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:885][692]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:885][692]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:897][693]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:897][693]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:911][694]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:911][694]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:924][695]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:925][695]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:941][696]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:941][696]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:982][697]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:982][697]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.47:996][698]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.47:996][698]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:009][699]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:009][699]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:025][700]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:025][700]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:037][701]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:037][701]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:049][702]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:049][702]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:062][703]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:062][703]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:073][704]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:074][704]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:087][705]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:087][705]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:099][706]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:099][706]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:111][707]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:111][707]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:123][708]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:123][708]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:136][709]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:136][709]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:149][710]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:149][710]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:163][711]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:163][711]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:178][712]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:178][712]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:195][713]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:195][713]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:210][714]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:210][714]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:226][715]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:226][715]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:240][716]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:240][716]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:257][717]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:257][717]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:283][718]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:283][718]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:304][719]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:304][719]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:317][720]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:317][720]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:331][721]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:331][721]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:343][722]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:343][722]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:358][723]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:358][723]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:371][724]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:371][724]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:384][725]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:384][725]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:398][726]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:398][726]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:409][727]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:409][727]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:423][728]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:423][728]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:434][729]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:434][729]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:447][730]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:447][730]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:459][731]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:459][731]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:472][732]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:472][732]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:487][733]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:487][733]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:499][734]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:499][734]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:513][735]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:513][735]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:524][736]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:524][736]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:537][737]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:537][737]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:549][738]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:549][738]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:561][739]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:561][739]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:574][740]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:574][740]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:586][741]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:586][741]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:598][742]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:598][742]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:610][743]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:610][743]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:623][744]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:623][744]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:635][745]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:635][745]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:647][746]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:647][746]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:658][747]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:658][747]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:670][748]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:670][748]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:682][749]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:682][749]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:695][750]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:695][750]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:705][751]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:705][751]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:718][752]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:718][752]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:730][753]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:730][753]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:742][754]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:742][754]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:755][755]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:755][755]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:768][756]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:768][756]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:897][766]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:897][766]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:922][767]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:922][767]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:980][768]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:980][768]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.48:993][769]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.48:993][769]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:006][770]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:006][770]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:019][771]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:019][771]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:032][772]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:032][772]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:044][773]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:044][773]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:056][774]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:056][774]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:068][775]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:068][775]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:080][776]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:080][776]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:093][777]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:093][777]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:105][778]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:105][778]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:118][779]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:118][779]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:130][780]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:130][780]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:142][781]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:142][781]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:156][782]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:156][782]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:168][783]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:168][783]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:181][784]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:181][784]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:194][785]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:194][785]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:208][786]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:208][786]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:223][787]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:223][787]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:238][788]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:238][788]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:252][789]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:252][789]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:266][790]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:266][790]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:281][791]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:281][791]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:295][792]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:295][792]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:308][793]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:308][793]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:323][794]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:323][794]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:337][795]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:337][795]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:352][796]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:352][796]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:367][797]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:367][797]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:382][798]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:382][798]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:397][799]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:397][799]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:412][800]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:412][800]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:427][801]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:427][801]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:441][802]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:441][802]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:456][803]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:456][803]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:471][804]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:471][804]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:486][805]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:486][805]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:500][806]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:500][806]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:514][807]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:514][807]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:530][808]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:530][808]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:544][809]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:544][809]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:557][810]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:557][810]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:570][811]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:570][811]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:585][812]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:585][812]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:598][813]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:598][813]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:610][814]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:610][814]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:625][815]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:625][815]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:638][816]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:638][816]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:651][817]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:651][817]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:664][818]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:664][818]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:675][819]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:675][819]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:688][820]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:688][820]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:701][821]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:701][821]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:713][822]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:713][822]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:725][823]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:726][823]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:737][824]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:737][824]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:751][825]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:751][825]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:763][826]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:763][826]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:774][827]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:774][827]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:787][828]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:787][828]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:800][829]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:800][829]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:813][830]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:814][830]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:826][831]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:826][831]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:838][832]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:838][832]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:851][833]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:851][833]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:864][834]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:864][834]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:877][835]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:877][835]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:889][836]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:889][836]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:901][837]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:902][837]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:914][838]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:914][838]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:927][839]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:927][839]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:938][840]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:938][840]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:950][841]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:950][841]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:964][842]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:964][842]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.49:998][843]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.49:998][843]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:015][844]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:015][844]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:030][845]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:030][845]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:041][846]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:041][846]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:055][847]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:055][847]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:068][848]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:068][848]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:081][849]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:081][849]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:473][850]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:473][850]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:485][851]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:485][851]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:499][852]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:499][852]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:514][853]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:514][853]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:525][854]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:525][854]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:538][855]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:538][855]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:551][856]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:551][856]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:565][857]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:565][857]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:579][858]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:579][858]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:592][859]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:592][859]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:605][860]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:605][860]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:619][861]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:619][861]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:632][862]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:632][862]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:645][863]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:645][863]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:657][864]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:657][864]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:669][865]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:669][865]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:683][866]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:683][866]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:696][867]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:696][867]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:707][868]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:707][868]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:719][869]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:719][869]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:732][870]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:732][870]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:745][871]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:745][871]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:760][872]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:760][872]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:771][873]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:771][873]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:784][874]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:785][874]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:796][875]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:796][875]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:808][876]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:808][876]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:822][877]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:822][877]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:835][878]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:835][878]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:848][879]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:848][879]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:862][880]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:862][880]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:873][881]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:873][881]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:885][882]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:885][882]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:899][883]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:899][883]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:912][884]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:912][884]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:924][885]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:924][885]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:936][886]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:936][886]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:948][887]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:948][887]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:961][888]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:961][888]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:972][889]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:972][889]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.50:984][890]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.50:984][890]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:016][891]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:016][891]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:028][892]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:028][892]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:039][893]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:039][893]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:053][894]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:053][894]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:065][895]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:065][895]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:078][896]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:078][896]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:090][897]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:090][897]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:103][898]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:103][898]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:115][899]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:115][899]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:128][900]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:128][900]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:142][901]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:142][901]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:158][902]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:158][902]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:172][903]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:172][903]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:186][904]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:186][904]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:200][905]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:200][905]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:214][906]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:214][906]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:228][907]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:228][907]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:240][908]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:240][908]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:254][909]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:254][909]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:267][910]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:267][910]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:280][911]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:280][911]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:295][912]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:295][912]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:307][913]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:307][913]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:320][914]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:320][914]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:334][915]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:334][915]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:349][916]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:349][916]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:362][917]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:362][917]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:374][918]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:374][918]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:387][919]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:387][919]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:399][920]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:399][920]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:412][921]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:412][921]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:424][922]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:424][922]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:437][923]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:437][923]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:450][924]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:450][924]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:462][925]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:462][925]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:478][926]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:478][926]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:489][927]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:490][927]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:502][928]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:502][928]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:514][929]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:514][929]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:528][930]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:528][930]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:540][931]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:540][931]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:553][932]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:553][932]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:567][933]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:567][933]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:578][934]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:578][934]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:590][935]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:590][935]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:605][936]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:605][936]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:618][937]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:618][937]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:631][938]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:631][938]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:642][939]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:642][939]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:656][940]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:656][940]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:669][941]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:669][941]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:681][942]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:681][942]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:694][943]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:694][943]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:705][944]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:705][944]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:718][945]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:718][945]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:733][946]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:733][946]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:747][947]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:747][947]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:758][948]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:758][948]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:770][949]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:770][949]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:784][950]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:784][950]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:797][951]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:797][951]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:808][952]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:808][952]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:821][953]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:821][953]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:835][954]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:835][954]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:848][955]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:848][955]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:862][956]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:862][956]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:874][957]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:874][957]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:887][958]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:887][958]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:901][959]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:901][959]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:914][960]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:914][960]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:928][961]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:928][961]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:940][962]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:940][962]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:954][963]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:954][963]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:967][964]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:967][964]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:978][965]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:978][965]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.51:991][966]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.51:991][966]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:004][967]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:004][967]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:051][968]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:051][968]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:063][969]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:063][969]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:076][970]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:076][970]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:090][971]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:090][971]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:103][972]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:103][972]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:116][973]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:116][973]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:130][974]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:130][974]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:142][975]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:142][975]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:156][976]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:156][976]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:170][977]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:170][977]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:184][978]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:184][978]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:198][979]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:198][979]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:213][980]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:213][980]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:227][981]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:227][981]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:238][982]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:238][982]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:251][983]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:251][983]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:263][984]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:263][984]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:274][985]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:274][985]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:288][986]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:289][986]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:301][987]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:301][987]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:314][988]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:314][988]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864
+[2017.01.21-20.09.52:327][989]LogBlueprintUserMessages: [Player_BP_C_0] 0.06
+[2017.01.21-20.09.52:327][989]LogBlueprintUserMessages: [Player_BP_C_0] 0.000864

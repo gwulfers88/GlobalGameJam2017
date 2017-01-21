@@ -1,0 +1,3 @@
+C:\Users\natha\Desktop\GIT\GlobalGameJam2017\GGJ17Alpha\Source\GGJ17Alpha\GGJ17Alpha.Build.cs
+C:\Users\natha\Desktop\GIT\GlobalGameJam2017\GGJ17Alpha\Source\GGJ17Alpha.Target.cs
+C:\Users\natha\Desktop\GIT\GlobalGameJam2017\GGJ17Alpha\Source\GGJ17AlphaEditor.Target.cs
