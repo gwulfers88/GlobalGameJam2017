@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\GGJam2017.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{95C61F1E-BF7C-4840-8FED-60329AF374F1}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\GGJam2017.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\GGJam2017Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{818F1D26-EFE2-460D-A739-F79E8205B4ED}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\GGJam2017">
+			<UniqueIdentifier>{2B06E8C1-6D17-4070-9220-0A372A2D662F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\GGJam2017\GGJam2017.Build.cs">
+			<Filter>Source\GGJam2017</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\GGJam2017\GGJam2017.cpp">
+			<Filter>Source\GGJam2017</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GGJam2017\GGJam2017.h">
+			<Filter>Source\GGJam2017</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GGJam2017\GGJam2017GameMode.cpp">
+			<Filter>Source\GGJam2017</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GGJam2017\GGJam2017GameMode.h">
+			<Filter>Source\GGJam2017</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\GGJam2017\GGJam2017Pawn.cpp">
+			<Filter>Source\GGJam2017</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\GGJam2017\GGJam2017Pawn.h">
+			<Filter>Source\GGJam2017</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
