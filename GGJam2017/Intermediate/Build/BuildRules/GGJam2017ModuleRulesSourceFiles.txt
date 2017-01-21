@@ -1,3 +1,0 @@
-C:\Users\natha\Desktop\GGJam2017\Source\GGJam2017\GGJam2017.Build.cs
-C:\Users\natha\Desktop\GGJam2017\Source\GGJam2017.Target.cs
-C:\Users\natha\Desktop\GGJam2017\Source\GGJam2017Editor.Target.cs
